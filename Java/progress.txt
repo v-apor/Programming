@@ -1,1 +1,2 @@
 1: 25/01/2020: Started with "Thinking in Java", then found "On Java 8" by Bruse Eckel
+2: 26/01/2020: Read that i'll be learning about the purpose of object in starting chapter(s). //Just read a few pages
