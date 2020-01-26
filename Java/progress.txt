@@ -1,0 +1,1 @@
+1: 25/01/2020: Started with "Thinking in Java", then found "On Java 8" by Bruse Eckel
