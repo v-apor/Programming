@@ -2,3 +2,4 @@
 2: 26/01/2020: Read that i'll be learning about the purpose of object in starting chapter(s). //Just read a few pages
 3: 29/01/2020: Read about classes, objects, inheritence and the design principles behind java.
 4: 30/01/2020: Read about inheritance and its use case
+5: 03/02/2020: Completed intro to OOP.
