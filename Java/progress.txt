@@ -3,3 +3,4 @@
 3: 29/01/2020: Read about classes, objects, inheritence and the design principles behind java.
 4: 30/01/2020: Read about inheritance and its use case
 5: 03/02/2020: Completed intro to OOP.
+6: 04/02/2020: Types of memories and where are objects stored
