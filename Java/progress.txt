@@ -7,3 +7,4 @@
 7: 05/02/2020: Read about Primitive types and memory mgmt
 8: 07/02/2020: Directory naming conventions etc.
 9: 08/02/2020: Read about importing
+10: 11/02/2020: Read about Static methods and fields and their significance
