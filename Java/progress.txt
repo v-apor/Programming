@@ -9,3 +9,4 @@
 9: 08/02/2020: Read about importing
 10: 11/02/2020: Read about Static methods and fields and their significance
 11: 12/02/2020: Read about coding styles and conventions.
+12: 13/02/2020: Java Operators.
