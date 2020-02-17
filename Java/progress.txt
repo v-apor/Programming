@@ -10,4 +10,5 @@
 10: 11/02/2020: Read about Static methods and fields and their significance
 11: 12/02/2020: Read about coding styles and conventions.
 12: 13/02/2020: Java Operators.
-13: 14/02/2029: Java Operators cont.
+13: 14/02/2020: Java Operators cont.
+14: 17/02/2020: Java Control Flow completed.
