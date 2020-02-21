@@ -15,4 +15,4 @@
 15: 18/02/2020: Started Constructors
 16: 19/02/2020: Constructors, method/const. overloading, this keyword
 17: 20/02/2020: Garbage Collection and memory, finalize () (not the best)
-
+18: 21/02/2020: Static keyword, Enums and other initialisations.
