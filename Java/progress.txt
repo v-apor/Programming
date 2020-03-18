@@ -21,3 +21,6 @@
 20: 16/03/2020: Intro and features of java
 21: 17/03/2020: Read About Compilation
 22: 18/03/2020: Read About JVM and Java SE package, JAVA:SE contains JRE(to run Java program) & JDK(development tools + JRE)
+                - About JVM architecture
+                - Source code (compile->) bytecode (interpret->) machine code
+                - java naming convention (Same file and class name if class is set as public) (need to read more)
