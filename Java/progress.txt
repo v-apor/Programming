@@ -20,3 +20,4 @@
 19: 15/03/2020: Started "Java In-Depth: Become a Complete Java Engineer!" course on Udemy
 20: 16/03/2020: Intro and features of java
 21: 17/03/2020: Read About Compilation
+22: 18/03/2020: Read About JVM and Java SE package, JAVA:SE contains JRE(to run Java program) & JDK(development tools + JRE)
