@@ -25,3 +25,4 @@
                 - Source code (compile->) bytecode (interpret->) machine code
                 - java naming convention (Same file and class name if class is set as public) (need to read more)
                 - Chapter 1 Quiz (5/5)
+23: 21/03/2020: Started about classes and did an example of class and obj "Schools.java"
