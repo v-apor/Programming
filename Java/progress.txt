@@ -27,4 +27,5 @@
                 - Chapter 1 Quiz (5/5)
 23: 21/03/2020: Started about classes and did an example of class and obj "Schools.java"
 24: 23/03/2020: About java input using scanner
-25: 25/03/2020: Learned about taking multiple input and also casting it to integer. using Integer.parseInt(<String>)
+25: 24/03/2020: Learned about taking multiple input and also casting it to integer. using Integer.parseInt(<String>)
+26: 25/03/2020: Learned how to compare strings (use str1.equals(str2) not "==")
