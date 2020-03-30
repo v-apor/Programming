@@ -29,3 +29,4 @@
 24: 23/03/2020: About java input using scanner
 25: 24/03/2020: Learned about taking multiple input and also casting it to integer. using Integer.parseInt(<String>)
 26: 25/03/2020: Learned how to compare strings (use str1.equals(str2) not "==")
+27: 30/03/2020: Scanner Class practice and using String.toCharArray() and String.split("seperator")
