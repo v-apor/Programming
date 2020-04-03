@@ -31,3 +31,4 @@
 26: 25/03/2020: Learned how to compare strings (use str1.equals(str2) not "==")
 27: 30/03/2020: Scanner Class practice and using String.toCharArray() and String.split("seperator")
 28: 31/03/2020: Java Sets (java.util.HashSets) it's methods obj.add(element) and  obj.contains(element)
+29: 03/04/2020: Java String as input and conver to array of Strings
