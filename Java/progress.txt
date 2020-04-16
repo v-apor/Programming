@@ -34,4 +34,5 @@
 29: 03/04/2020: Java String as input and conver to array of Strings
 30: 04/04/2020: Understood that if I took input using Scanner obj.nextInt() it'll only take the int and not the next line chapter   
                 So, if I want to move to next line i'll have to use Scanner obj.nextLine() and then I can continue taking input from the next line
-31: 16/04/2020: Char to int and int to char casting
+31: 16/04/2020: Char to int and int to char casting. Note that capitals start at 65(A) and end at 90(Z) and small starts at 97(a)
+                - string.substring(startIndex, endIndex) not includes endIndex
