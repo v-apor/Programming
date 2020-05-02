@@ -1,1 +1,3 @@
-1: 29/04/2020: Refreshed about variables and Strings basics
+1: 29/04/2020: Refreshed about variables and Strings basics.
+2: 02/04/2020: In a python list we use append if we just want to add an element at end
+               and extend if we want to add each elements of other list.
