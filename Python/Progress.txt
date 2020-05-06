@@ -3,3 +3,5 @@
                and extend if we want to add each elements of other list.
 3: 06/05/2020: -Dictionaries and it's functions
 	       -Tuples
+	       -Sets
+	       -Boolean
