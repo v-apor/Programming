@@ -8,3 +8,5 @@
 4: 10/05/2020: Input-Output, iterables tuple unpacking
 	      - for and while loops; continue, break and pass(new one: it's just a statement that does nothing, mainly used b'cos
 		python doesn't allow blank intended statement)
+5: 11/05/2020: range(), random(shuffle and randint) enumerate() to generate tuple from iterable w/ index and zip(to combine two list as tuple)
+	       - input()
