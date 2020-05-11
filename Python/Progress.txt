@@ -10,3 +10,4 @@
 		python doesn't allow blank intended statement)
 5: 11/05/2020: range(), random(shuffle and randint) enumerate() to generate tuple from iterable w/ index and zip(to combine two list as tuple)
 	       - input()
+		- Those slickkk one liners, It's called LIST-COMPREHENSION
