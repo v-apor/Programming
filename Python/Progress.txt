@@ -13,3 +13,4 @@
 		- Those slickkk one liners, It's called LIST-COMPREHENSION
 		- Python methods and functions with comments and all
 6: 12/05/2020: *args and **kwargs (tuple, dictionary arguments resp)
+		- lambda functions, map(iterate function call for each input) and filter(iterate function and return the input for which o/p == True)
