@@ -15,3 +15,4 @@
 6: 12/05/2020: *args and **kwargs (tuple, dictionary arguments resp)
 		- lambda functions, map(iterate function call for each input) and filter(iterate function and return the input for which o/p == True)
 		- Scope(LEGB: Local, Enclosing function local, Global, Built-in)
+		- Project: tic-tac-toe: took a lot of reference (mainly took the steps and implemented it)
