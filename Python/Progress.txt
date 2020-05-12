@@ -12,3 +12,4 @@
 	       - input()
 		- Those slickkk one liners, It's called LIST-COMPREHENSION
 		- Python methods and functions with comments and all
+6: 12/05/2020: *args and **kwargs (tuple, dictionary arguments resp)
