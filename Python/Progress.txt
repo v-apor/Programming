@@ -16,3 +16,5 @@
 		- lambda functions, map(iterate function call for each input) and filter(iterate function and return the input for which o/p == True)
 		- Scope(LEGB: Local, Enclosing function local, Global, Built-in)
 		- Project: tic-tac-toe: took a lot of reference (mainly took the steps and implemented it)
+7: 13/05/2020: - OOP, class and __init__, need of passing self(kinda like this but required)
+		- Class object attribute and methods
