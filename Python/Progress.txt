@@ -20,3 +20,4 @@
 		- Class object attribute and methods
 		- Inheritance class className(inherited_class_name) and polymorphism(not so cool)
 8: 14/05/2020: - OOP: special functions __del__() __str__() and __len__() for deletion message, print() o/p and len() output resp
+		- small bank class challange
