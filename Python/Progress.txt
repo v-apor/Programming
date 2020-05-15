@@ -25,3 +25,5 @@
 		- package (collection of modules in a folder with one special __init__.py (to identify folder as package))
 		- if __name__ == '__main__'
 		- Note: Module is completely run if imported (So, all level zero i.e, non indendet code will be executed if imported)
+
+9: 15/05/2020: - Exception handling: try.....except....else....finally
