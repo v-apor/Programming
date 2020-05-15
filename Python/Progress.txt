@@ -29,3 +29,5 @@
 9: 15/05/2020: - Exception handling: try.....except....else....finally
 		- install pylint using pip. It's used as >pylint file_name.py (It returns report with all conventions and comments with score!!!!)
 		- unittest!! WOW!! I always wanted to know how this works... Finally got it!! 
+		- Project: BLACKJACK (IT's soooooooo BORING!!!!) I copied this proj!!! cos not interested and finally it said some function not present!!1
+		  Damnnnnn 1!@&$*^%$ (I SHOULD NOT HAVE STARTED IF I DIDN'T LIKE IT!!!)
