@@ -31,3 +31,4 @@
 		- unittest!! WOW!! I always wanted to know how this works... Finally got it!! 
 		- Project: BLACKJACK (IT's soooooooo BORING!!!!) I copied this proj!!! cos not interested and finally it said some function not present!!1
 		  Damnnnnn 1!@&$*^%$ (I SHOULD NOT HAVE STARTED IF I DIDN'T LIKE IT!!!)
+10: 16/05/2020: - Python Decorators (Kinda Cool!)
