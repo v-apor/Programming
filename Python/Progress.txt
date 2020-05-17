@@ -32,3 +32,6 @@
 		- Project: BLACKJACK (IT's soooooooo BORING!!!!) I copied this proj!!! cos not interested and finally it said some function not present!!1
 		  Damnnnnn 1!@&$*^%$ (I SHOULD NOT HAVE STARTED IF I DIDN'T LIKE IT!!!)
 10: 16/05/2020: - Python Decorators (Kinda Cool!)
+11: 17/05/2020: Generators (yield instead of return)
+		- using next we call next(generator_name) instance of that generator
+		- iter to convert normal iterable objects (eg string) to generator so we can cal next() on the object (N.B we can't directly call next(string_obj))
