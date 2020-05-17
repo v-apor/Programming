@@ -36,3 +36,7 @@
 		- using next we call next(generator_name) instance of that generator
 		- iter to convert normal iterable objects (eg string) to generator so we can cal next() on the object (N.B we can't directly call next(string_obj))
 		- Collections: orderedDict (not much used, anomaly 3.6+ default but while comparision we get difference), namedTuples, counter, defaultDict
+		- datetime
+		- pdb Python debugger
+		- timekeeping (to check time taken to run)
+		- regular expression : not the best explaination (Need to read more on this)
