@@ -40,3 +40,6 @@
 		- pdb Python debugger
 		- timekeeping (to check time taken to run)
 		- regular expression : not the best explaination (Need to read more on this)
+12: 19/05/2020: -Advanced Numbers: bin(), hex(), abs(), round(), pow()
+		- Adv Strings: split, upper, lower, partition etc
+			
