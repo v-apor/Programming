@@ -43,4 +43,5 @@
 12: 19/05/2020: -Advanced Numbers: bin(), hex(), abs(), round(), pow()
 		- Adv Strings: split, upper, lower, partition etc
 		- Sets in Detail (it's methods)
-			
+13: 20/05/2020: Advanced Dictionaries (Not so usefull I think!)
+		-Advanced list methods
