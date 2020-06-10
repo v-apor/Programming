@@ -36,3 +36,4 @@
                 So, if I want to move to next line i'll have to use Scanner obj.nextLine() and then I can continue taking input from the next line
 31: 16/04/2020: Char to int and int to char casting. Note that capitals start at 65(A) and end at 90(Z) and small starts at 97(a)
                 - string.substring(startIndex, endIndex) not includes endIndex
+32: 10/06/2020: String methods, string.contains("substring") and string.indexOf('character')
