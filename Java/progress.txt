@@ -38,3 +38,4 @@
                 - string.substring(startIndex, endIndex) not includes endIndex
 32: 10/06/2020: String methods, string.contains("substring") and string.indexOf('character')
 33: 11/06/2020: StringBuilder for output...
+34: 06/07/2020: 2d Array fill(); NB: So far I only found a way to fill a particular row and not any selective column
