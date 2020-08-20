@@ -1,0 +1,6 @@
+This is a powershell script to compile and run java file only using one command.
+It's implementation is quite simple, type:
+
+BldNRun.ps1 <filename.java>
+
+it compiles and then runs the file

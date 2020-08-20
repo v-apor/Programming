@@ -1,0 +1,5 @@
+It's still not working, need to explore more
+
+I have put the folder struture i.e, mypackages/printclasses/  inside the lib directory of java installation.
+I've done this b'cos the "Java/lib/" is already specified in CLASSPATH, that way I can access all my classes by importing:
+import mypackages.printclasses.*
