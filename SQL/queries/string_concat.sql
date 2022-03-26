@@ -1,0 +1,1 @@
+select title as 'Title', concat_ws(' - ', author_fname, author_lname) as 'Name', released_year as 'Year' from books;
