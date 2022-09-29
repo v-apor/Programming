@@ -2,3 +2,5 @@
 *.exe
 *.idea
 *.out
+sparkEnv
+*.DS_Store
