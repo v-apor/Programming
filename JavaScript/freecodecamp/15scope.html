@@ -1,0 +1,20 @@
+<script>
+    // Things outside the function have global scope
+    // Global variable method 1 (outside function)
+    var outsideVar = 14;
+
+    function checkScope(){
+        console.log(outsideVar);
+
+        // Global variable method 2 (inside function without 'var' keyword)
+        withoutVarVariable = 61;
+    }
+
+    function checkScope2(){
+        console.log(withoutVarVariable);
+    }
+
+    checkScope();
+    checkScope2();
+
+</script>
