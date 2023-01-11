@@ -1,0 +1,33 @@
+<script>
+    // NOTE: "objects" in JavaScript == "dictionary" in Python
+    // example of object
+
+    var myDog = {
+        "name": "Shadow",
+        "legs": 4,
+        "tails": 1,
+        "friends": ["Everything!"],
+        // yeah, LoL!:
+        "phone number": 2456
+    };
+    
+    console.log(myDog);
+    // can use dot notation
+    console.log(myDog.name);
+
+    // But will have to use bracket notation if there is space in the key
+    console.log(myDog["phone number"]);
+
+    // Adding new property(key)
+    myDog.toy = "coconut";
+    console.log(myDog);
+
+    // Delete property
+    delete myDog["phone number"];
+    console.log(myDog);
+
+    // Check if object has a property, using "hasOwnProperty"
+    console.log(myDog.hasOwnProperty("legs"));
+    console.log(myDog.hasOwnProperty("car"));
+
+</script>
