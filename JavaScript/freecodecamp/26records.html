@@ -1,0 +1,54 @@
+<script>
+    var collection = {
+        "2548": {
+            "album": "Slippery When Wet",
+            "artist": "Bon Jovi",
+            "tracks": [
+                "Let It Rock",
+                "You Give Love a Bad Name"
+            ]
+        },
+        "2468": {
+            "album": "1999",
+            "artist": "Prince",
+            "tracks": [
+                "1999",
+                "Little Red Corvette"
+            ]
+        },
+        "1245": {
+            "artist": "Robert Palmer",
+            "tracks": [ ]
+        },
+        "5439": {
+            "album": "ABBA Gold"
+        }
+    };
+
+    function updateRecords(id, prop, value){
+        if(value.length === 0){
+            delete collection[id][prop];
+        }
+        else if(prop === "tracks"){
+            if("tracks" in collection[id]){
+                collection[id]["tracks"].push(value);
+            }
+            else{
+                collection[id]["tracks"] = [value];
+            }
+            // Better way to do this is:
+            // collection[id]["tracks"] = collection[id]["tracks"] || [];
+        }
+        else {
+            collection[id][prop] = value;
+        }
+        return collection;
+    }
+
+    console.log(collection);
+    updateRecords("5439", "album", "JSband");
+    updateRecords("5439", "tracks", "Your love is like JS, confusing!");
+    console.log(collection);
+    updateRecords("5439", "tracks", "Imagine Dragonal!");
+    console.log(collection);
+</script>

@@ -1,0 +1,26 @@
+<script>
+    nums = []
+
+    for(var i=0; i<5; i++){
+        nums.push(i);
+    }
+
+    console.log(nums);
+
+    nums2 = []
+    for(var j=1; j<10; j+=2){
+        nums2.push(j);
+    }
+    console.log(nums2);
+
+    function totalArray(arr){
+        var total = 0;
+        for(var k=0; k<arr.length; k++){
+            total += arr[k];
+        }
+        return total;
+    }
+
+    console.log(totalArray(nums));
+
+</script>

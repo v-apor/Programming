@@ -1,0 +1,28 @@
+<script>
+    // ...args represents all arguments taken as an array
+    function myFunc(...arr){
+        let total = 0;
+        for(let i=0; i<arr.length; i++){
+            total += arr[i];
+        }
+        return total;
+    }
+    console.log(myFunc(1, 2, 3, 4));
+
+    // we can also use '...' to spread the array, i.e, to expand
+    arr1 = [1, 2, 3, 4, 5];
+    // shallow copy
+    arr2 = arr1
+    // This will also change arr2
+    arr1[0] = "potato"
+    console.log(arr2);
+
+    // Instead of shallow copy, if we wan't to have actual (deep?) copy, we can spread
+    arr1 = [1, 2, 3, 4, 5]; 
+    // line below takes actual values and does deep copy
+    arr2 = [...arr1];
+    arr1[0] = "potato"
+    // arr2 not affected by change in arr1
+    console.log(arr2);
+
+</script>

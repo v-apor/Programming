@@ -1,0 +1,45 @@
+<script>
+    // With ES6 (2015 | New Standard), we can use "let" and "const" for declaring variables 
+
+    var cat = "Meow";
+    // No error below
+    var cat = "Ceow";
+    // Prints the latest one
+    console.log(cat);
+
+    // Let on the other hand doesn't allow two variable declaration at the same time
+    let dog = "Shadow";
+    // Error below, "syntaxerror: Cannot declare a let variable twice: 'dog'."
+    // let dog = "Meadow";
+    console.log(dog);
+
+    // Scope, 'var' is like global, whereas 'let' remains in the local scope (where declared)
+
+    function checkScope(){
+
+        var testVar = "Var variable Outside";
+        let testLet = "Let variable Outside";
+
+        if(true){
+            var testVar = "Var variable Inside";
+            let testLet = "Let variable Inside";   
+            console.log(testVar);
+            console.log(testLet);
+        }
+        console.log(testVar);
+        console.log(testLet);
+    }
+
+    checkScope();
+
+
+    // Another way to declare variable is by using const, it's constant & can't be changed
+    const MYVARIABLE = 14;
+    // Error below "[Error] TypeError: Attempted to assign to readonly property." 
+    // MYVARIABLE = 61;
+
+    // Note that you can mutate the const arrays, can't reassign, just mutate x[i] = y (allowed)
+    // to prevent mutation as well, you can use freeze
+    // Object.freeze(x)
+    // The above line won't allow any mutation
+</script>

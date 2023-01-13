@@ -1,0 +1,14 @@
+<script>
+    function multiplyAll(arr){
+        var total = 1;
+        for(var subArr=0; subArr<arr.length; subArr+=1){
+            for(var i=0; i<arr[subArr].length; i+=1){
+                total *= arr[subArr][i];
+            }
+        }
+        return total;
+    }
+
+    var myArr = [[1, 2, 3], [2, 2], [1, 1, 10]];
+    console.log(multiplyAll(myArr));
+</script>
