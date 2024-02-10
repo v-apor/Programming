@@ -24,7 +24,6 @@ class Customer():
             return False
 
 
-
 c1 = Customer("onelife", "Gold")
 c2 = Customer("vapor", "Gold")
 print(c1.name, c1.membership_type)
@@ -41,3 +40,7 @@ print(c1)
 
 # we can define __eq__(self, other), a special method that comes into play when comparing two objects
 print(c1 == c2)
+
+# works because of __repr__ = __str__
+cust = [c1, c2]
+print(cust)
